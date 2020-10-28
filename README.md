@@ -1,0 +1,2 @@
+# slacktex
+Tex for Slack. 
