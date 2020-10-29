@@ -9,7 +9,7 @@ make:
 	make clean
 
 clean:
-	rm -rf  $(TARGET) $(SOURCE).pdf *.class *.html *.log *.aux *.data *.gnuplot
+	rm -rf  $(TARGET) $(SOURCE).pdf $(SOURCE).svg  *.class *.html *.log *.aux *.data *.gnuplot
 
 svg:
 
