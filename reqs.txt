@@ -4,3 +4,9 @@ inkscape (brew cask install inkscape)
 imagemagick
 pdf2svg
 livetex
+
+sudo apt-get install texlive-basic
+sudo apt-get install texlive-extra-utils
+sudo apt-get install pdf2svg
+sudo apt-get install inkscape
+
