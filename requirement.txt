@@ -1,0 +1,6 @@
+attrs==18.2.0
+pdf2image==1.14.0
+pdfCropMargins==1.0.0
+pdflatex==0.1.3
+Pillow==8.0.1
+PyPDF2==1.26.0
