@@ -1,0 +1,6 @@
+REQUIREMENTS:
+
+inkscape (brew cask install inkscape)
+imagemagick
+pdf2svg
+livetex
